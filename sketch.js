@@ -71,7 +71,7 @@ function draw() {
   stoneObj.display();
   groundObject.display();
   // display launcher object here
-    launcherObject=new launcher(stoneObj.body,{x:235,y:420});
+    
 
 
   detectollision(stoneObj,mango1);
